@@ -1,7 +1,7 @@
 # Little Lemon App
 Since databases are limited to local envoriment in this course, please enter your own database details, create users and tokens manually or through apis as decribed in the coursera's previous modules and then use the respective API where token authorization is required.
 
-Following are the API URL
+<!-- Following are the API URL
 http://127.0.0.1:8000/restaurant/menu/       
 http://127.0.0.1:8000/restaurant/menu/2/    
 http://127.0.0.1:8000/restaurant/api-token-auth/ (POST METHOD)
@@ -19,7 +19,7 @@ http://127.0.0.1:8000/auth/users/reset_username/
 http://127.0.0.1:8000/auth/users/reset_username_confirm/
 
 Djoser TOKEN:
-http://127.0.0.1:8000/auth/token/login/
+http://127.0.0.1:8000/auth/token/login/ -->
 
 ## Main Steps
 1. **Create an environment:**![django8](https://github.com/johantbueno/Django-Meta-Assessment/assets/109690188/523f6198-1124-4588-b399-a0756d7c461c)
